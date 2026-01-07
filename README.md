@@ -1,2 +1,2 @@
-Added Feature A description.
+Fixed a small typo.
 
