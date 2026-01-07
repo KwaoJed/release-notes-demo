@@ -1,2 +1,2 @@
-Fixed a small typo.
+Updated documentation.
 
